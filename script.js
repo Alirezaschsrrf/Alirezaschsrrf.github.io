@@ -25,6 +25,7 @@ function openTab(evt, tabName) {
         avatar.style.display = "none";
     } else {
         // Show avatar in header for Resume & Portfolio
+        // نکته: در فایل CSS موبایل این عکس کوچک‌تر می‌شود
         avatar.style.display = "block";
     }
 
